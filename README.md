@@ -14,4 +14,4 @@ I am a focused, efficient, and result-oriented economist and researcher with exc
 - **Registered Teacher:** Teaching Council of Ireland (Economics).
 
 ### 📈 Current Projects
-- [Health-Expectancy-Macro-Analysis](LINK_TO_YOUR_PREVIOUS_REPO) - A replication study on HALE and Oil Consumption.
+- [Health-Expectancy-Macro-Analysis](https://github.com/olamilekan2552/Health-Expectancy-Macro-Analysis) - A replication study on HALE and Oil Consumption.
