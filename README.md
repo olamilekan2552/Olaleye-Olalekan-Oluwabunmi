@@ -25,7 +25,7 @@
 
 <header>
     <h1>Olalekan Oluwabunmi Olaleye 👋</h1>
-    <p>Economist | Researcher |PhD Candidate | Financial & Data Analyst</p>
+    <p>Economist | Researcher | PhD Candidate | Financial & Data Analyst</p>
 </header>
 
 <div class="container">
